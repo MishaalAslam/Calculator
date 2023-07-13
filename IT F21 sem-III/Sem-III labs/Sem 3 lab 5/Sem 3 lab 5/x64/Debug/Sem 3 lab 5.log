@@ -1,0 +1,5 @@
+﻿  lab 05.cpp
+C:\Users\Mishaal\Desktop\Sem 3 lab 5\Sem 3 lab 5\lab 05.cpp(192,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mishaal\Desktop\Sem 3 lab 5\Sem 3 lab 5\lab 05.cpp(226,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mishaal\Desktop\Sem 3 lab 5\Sem 3 lab 5\lab 05.cpp(236,18): warning C4305: 'argument': truncation from 'double' to 'float'
+  Sem 3 lab 5.vcxproj -> C:\Users\Mishaal\Desktop\Sem 3 lab 5\x64\Debug\Sem 3 lab 5.exe

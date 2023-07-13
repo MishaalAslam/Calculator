@@ -1,0 +1,66 @@
+Arrays
+Basic syntax:
+	array = [22,22,24,25,67,7]
+
+for inserting any element in array we use syntax:
+	array.insert(indexToBeTaken,value)
+
+for automatically inserting any element at the end of array array we use syntax:
+	array.append(value)
+
+for eliminating any element from array we use syntax:
+	array.remove(value)
+
+for eliminating last element from array we use syntax:
+	array.pop()					//print the last value and removes it from array
+
+for eliminating any element from array by pop we use syntax:
+	array.pop(indexNmbr)
+
+for deleting whole array we use syntax:
+	array.clear()
+	
+for targeting specific array element use syntax:
+	print(aray[2])
+	
+for printing in a range of indexes we use syntax:
+	print(array[2:5])			//output = (22,24,25)
+	
+for length of string/array we use len function
+	len(array)
+
+
+					-------------List---------------
+like arrays we appraoch by array[4] etc
+
+
+
+
+					-------------Tuple---------------
+tuple = (1,2,3,4,5,6,7)
+
+Tuple is immutable .i.e., can't delete or add anything in it
+
+
+
+					-------------Dictionary---------------
+dctnry = {"Ali":23,"Ayesha":24,"Fiza":27,"Hamza":40}
+
+to access it we use syntax:
+			dctnry["Ayesha"]			//24
+
+
+
+
+
+
+
+
+--------------------Github------------------
+echo "# Blog-Website" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/MishaalAslam/Blog-Website.git
+git push -u origin main

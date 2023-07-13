@@ -1,0 +1,9 @@
+﻿  TicTac.c
+C:\Users\Dell\Desktop\Tic Tac Toe\Tic Tac Toe\TicTac.c(22,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Dell\Desktop\Tic Tac Toe\Tic Tac Toe\TicTac.c(56,10): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int (*)[30]'
+C:\Users\Dell\Desktop\Tic Tac Toe\Tic Tac Toe\TicTac.c(59,10): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int (*)[30]'
+C:\Users\Dell\Desktop\Tic Tac Toe\Tic Tac Toe\TicTac.c(62,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\Dell\Desktop\Tic Tac Toe\Tic Tac Toe\TicTac.c(62,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'int *'
+C:\Users\Dell\Desktop\Tic Tac Toe\Tic Tac Toe\TicTac.c(72,24): warning C4133: 'function': incompatible types - from 'int [30]' to 'char *'
+C:\Users\Dell\Desktop\Tic Tac Toe\Tic Tac Toe\TicTac.c(76,24): warning C4133: 'function': incompatible types - from 'int [30]' to 'char *'
+  Tic Tac Toe.vcxproj -> C:\Users\Dell\Desktop\Tic Tac Toe\x64\Debug\Tic Tac Toe.exe

@@ -1,0 +1,4 @@
+﻿  cricket_game.c
+C:\Users\Dell\Desktop\Cricket Game\Cricket Game\cricket_game.c(98,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Dell\Desktop\Cricket Game\Cricket Game\cricket_game.c(199,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Cricket Game.vcxproj -> C:\Users\Dell\Desktop\Cricket Game\x64\Debug\Cricket Game.exe
